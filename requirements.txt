@@ -16,7 +16,7 @@ python-language-server==0.31.7
 requests==2.22.0
 requests-toolbelt==0.9.1
 six==1.14.0
-ujson==1.35
+ujson==5.4.0
 virtualenv==20.0.24
 Werkzeug==1.0.0
 wit==6.0.0
